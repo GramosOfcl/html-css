@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body{
+    background-color: white;
+}
+header{
+ background-color: black;
+ color: white;
+    min-height: 150px;
+    text-align: center;
+    padding-top: 30px;
+}
+header>h1{
+    color: white;
+}
+header>p{
+    color: white;
+}
